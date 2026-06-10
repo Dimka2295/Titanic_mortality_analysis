@@ -1,2 +1,7 @@
-# Titanic_mortality_analysis
-Titanic - Passenger Survival Analysis
+# Titanic Mortality Factors Analysis
+## About the Project
+
+This project analyzes the Titanic dataset from the Seaborn library to identify factors related to passenger mortality and survival.
+
+## Files
+titanic_analysis.ipynb – complete analysis.
